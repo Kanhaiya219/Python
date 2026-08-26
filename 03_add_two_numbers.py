@@ -1,4 +1,4 @@
-#program to sum 2 digits
+#program to two 2 numbers
 
 first = int(input("enter first number : "))
 second = int(input("enter second nummber : "))
