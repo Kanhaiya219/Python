@@ -1,6 +1,6 @@
 # Basic ATM Menu System
 
-balance = 0
+balance = 5000  # I supposed user have somme money in their account
 
 while True:
     print("\n===== ATM MENU =====")
